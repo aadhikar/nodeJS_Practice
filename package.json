@@ -1,0 +1,31 @@
+{
+  "name": "nodejs_practice",
+  "version": "1.0.0",
+  "description": "Node practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadhikar/nodeJS_Practice.git"
+  },
+  "keywords": [
+    "nodeJs",
+    "Global Object",
+    "Module Wrapper Function",
+    "Path Module",
+    "File System Module",
+    "OS module",
+    "URL Module",
+    "Event Module",
+    "Logger With Event Emitter",
+    "HTTP Module"
+  ],
+  "author": "Anilkumar Adhikari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadhikar/nodeJS_Practice/issues"
+  },
+  "homepage": "https://github.com/aadhikar/nodeJS_Practice#readme"
+}
